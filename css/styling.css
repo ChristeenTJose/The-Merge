@@ -18,10 +18,10 @@ section
 	height:250vh;
 	margin-top: 130px;
 	background-image: url(../images/BG.jpeg);
-	background-repeat: repeat-y;
 	background-size: contain;
 	text-align: center;
 	padding-top: 3%;
+	background-attachment: local;
 }
 div
 {
